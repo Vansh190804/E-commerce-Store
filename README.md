@@ -1,8 +1,10 @@
-# React + Vite
+A simple yet functional e-commerce cart application built using React, Redux, and Tailwind CSS. This project focuses on cart functionality — users can add items, adjust quantities, and automatically update the total price.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛒 Features:
+1. Add items to cart
+2. Increment/decrement item quantities
+3. Live price and total updates based on cart state
+4. Global state management with Redux
+5. Responsive UI styled with Tailwind CSS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Perfect for understanding Redux patterns, state updates, and creating clean UI with utility-first styling.
